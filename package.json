@@ -1,0 +1,21 @@
+{
+  "name": "supplychain",
+  "version": "0.1.0",
+  "dependencies": {
+    "solc": "^0.8.4",
+    "truffle": "^5.3.7"
+  },
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "NoviTech",
+  "license": "ISC",
+  "description": ""
+}
